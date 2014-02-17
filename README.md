@@ -35,4 +35,4 @@ The [vim-plug][2] way:
 
 [1]: https://github.com/tpope/vim-pathogen
 [2]: https://github.com/junegunn/vim-plug
-![screenshot](https://raw.github.com/TaurusOlson/creature.vim/master/img/creature.jpg)
+![screenshot](https://raw.github.com/TaurusOlson/creature.vim/master/img/creature.png)
