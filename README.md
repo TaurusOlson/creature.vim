@@ -17,22 +17,22 @@ One more dark colorscheme for Vim...
 
 The standard way:
 
-    $ cp gc.vim ~/.vim/colors
+    $ cp creature.vim ~/.vim/colors
 
 
 The [pathogen][1] way:
     
-    $ git clone https://github.com/TaurusOlson/gc.vim.git ~/.vim/bundle/creature.vim
+    $ git clone https://github.com/TaurusOlson/creature.vim.git ~/.vim/bundle/creature.vim
 
 
 The [vim-plug][2] way:
     
     # In your .vimrc file:
-    Plug 'TaurusOlson/gc.vim' 
+    Plug 'TaurusOlson/creature.vim' 
 
 
 # Screenshot
 
 [1]: https://github.com/tpope/vim-pathogen
 [2]: https://github.com/junegunn/vim-plug
-![screenshot](https://raw.github.com/TaurusOlson/gc.vim/master/img/creature.jpg)
+![screenshot](https://raw.github.com/TaurusOlson/creature.vim/master/img/creature.jpg)
