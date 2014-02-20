@@ -170,3 +170,10 @@ call Colorize("CtrlSpaceNormal"   , "fg"           , "bg"             , "none")
 call Colorize("CtrlSpaceSelected" , "fg"           , s:creature_brown , "none")
 call Colorize("CtrlSpaceFound"    , s:creature_red , "bg"             , "none")
 
+" Vimwiki {{{1
+call Colorize("vimwikiHeader1" , s:creature_red    , "bg" , "bold")
+call Colorize("vimwikiHeader2" , s:creature_blue   , "bg" , "bold")
+call Colorize("vimwikiHeader3" , s:creature_orange , "bg" , "bold")
+call Colorize("vimwikiHeader4" , s:creature_purple , "bg" , "bold")
+call Colorize("vimwikiHeaderChar" , s:creature_dark_grey, "bg" , "bold")
+
